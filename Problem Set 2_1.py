@@ -1,4 +1,4 @@
-##Problem Set 2
+##Problem Set 2-1
 ##20150627
 #balance, annualInterestRate, or monthlyPaymentRate
 
